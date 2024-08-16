@@ -1,2 +1,3 @@
 template-file-path: Git-sync-folder/cfn-template.yaml
-#comment
+parameters: {}
+tags: {}
